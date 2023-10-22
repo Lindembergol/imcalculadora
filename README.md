@@ -1,6 +1,6 @@
-# calcimc
+# Calculadora IMC com Flutter
 
-A new Flutter project.
+Um projeto criado como desafio no Bootcamp Santander 2023.
 
 ## Getting Started
 
